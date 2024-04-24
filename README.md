@@ -77,10 +77,10 @@ Here are some ideas to get you started:
     <img width="70" height="70" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" />
-    <img width="70" height="70" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="CPP" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="CPP" />
 <!-- javascript related -->
     <img width="70" height="70" src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="testinglibrary" />
@@ -89,13 +89,11 @@ Here are some ideas to get you started:
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="storybook" />
- <img width="70" height="70" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" />
- <img width="60" height="60" src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" />
+	<img width="60" height="60" src="https://skillicons.dev/icons?i=spring" alt="Spring" />
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-  <img width="60" height="60" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+	<img width="60" height="60" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=redis" alt="Redis" />
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
-	
-    
   </div>
 </div>
