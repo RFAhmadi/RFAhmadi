@@ -109,3 +109,15 @@ Here are some ideas to get you started:
   <br/>
 </details>
 <br><br><br>
+
+
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="http://anuraghazra-github-readme-stats-weld.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+  <br/>
+</details>
+<br><br><br>
+
+
