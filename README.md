@@ -1,15 +1,33 @@
 ### Hi there 👋
 
+<!--
+**RFAhmadi/RFAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 
 <!-- ############################################################ Header name and Quote ############################################################ -->
+<!-- From https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=75&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=500&height=120&lines=Hi!;call+me+aref!" alt="Typing SVG" /></a>
-</div><br><br><br>
+</div>
+<br><br><br>
 
 
 
 <!-- ############################################################ Languages and technologies badge ############################################################ -->
+<!-- From https://github.com/ziadOUA/m3-Markdown-Badges -->
 <div align="center">
   <div style="display: flex; align-items: center;">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
@@ -35,13 +53,14 @@
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   </div>
-</div> 
+</div>
 <br><br><br>
 
 
 
 <!-- ############################################################ Currently learning and interests in future ############################################################ -->
-
+<!-- From https://github.com/qkrdmstlr3/techstack-generator?tab=readme-ov-file -->
+<!-- From https://github.com/tandpfun/skill-icons#readme -->
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -52,6 +71,7 @@
     <img width="70" height="70" src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" />
+<!--<img width="65" height="75" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" /> -->
     <img width="70" height="70" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" />
@@ -78,3 +98,14 @@
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
   </div>
 </div>
+<br><br><br>
+
+
+<!-- ############################################################   ############################################################ -->
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://anuraghazra-github-readme-stats-weld.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+  <br/>
+</details>
+<br><br><br>
