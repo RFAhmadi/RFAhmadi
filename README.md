@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 <!-- ############################################################ Currently learning and interests in future ############################################################ -->
 <!-- From https://github.com/qkrdmstlr3/techstack-generator?tab=readme-ov-file -->
 <!-- From https://github.com/tandpfun/skill-icons#readme -->
-<!-- From https://github.com/anuraghazra/github-readme-stats AND vercel.com-->
 <details>
   <summary>⚡ Tools & Technologies 🛠️</summary> <!-- ⚙️ -->
   <br/>
@@ -109,12 +108,12 @@ Here are some ideas to get you started:
 
 
 <!-- ############################################################ stats ############################################################ -->
+<!-- From https://github.com/anuraghazra/github-readme-stats AND vercel.com-->
 <details>
   <summary>⚡ GitHub Profile Stats 📋</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RFAhmadi&theme=radical&hide_border=true&show_icons=true&hide=stars,contribs&include_all_commits=true&show=discussions_answered,prs_merged," alt="Stats Card" />
+	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&theme=radical&hide_border=true&langs_count=8&layout=compact&disable_animations=false" alt="Top Languages" /></a>
   <br/>
 </details>
 <br><br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
