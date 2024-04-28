@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 
 <!-- ############################################################ Languages and technologies badge ############################################################ -->
 <!-- From https://github.com/ziadOUA/m3-Markdown-Badges -->
+<details>
+	<summary>⚡ Skills 💻</summary> <!-- 🧑🏻‍💻 </> -->
+	<br/>
 <div align="center">
-  <div style="display: flex; align-items: center;">
+	<div style="display: flex; align-items: center;">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
@@ -51,9 +54,10 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
-  </div>
+	</div>
 </div>
-<br><br><br>
+	<br/>
+</details>
 
 
 
@@ -62,7 +66,7 @@ Here are some ideas to get you started:
 <!-- From https://github.com/tandpfun/skill-icons#readme -->
 <!-- From https://github.com/anuraghazra/github-readme-stats AND vercel.com-->
 <details>
-  <summary>Tool and Technologies ⚙️</summary>
+  <summary>⚡ Tools & Technologies 🛠️</summary> <!-- ⚙️ -->
   <br/>
 > Tools and Technologies that I am Currently learning and interests in future
 	<br/><br>
@@ -106,7 +110,7 @@ Here are some ideas to get you started:
 
 <!-- ############################################################ stats ############################################################ -->
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>⚡ GitHub Profile Stats 📋</summary>
   <br/>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
   <br/>
