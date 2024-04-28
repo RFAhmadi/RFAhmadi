@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!-- From https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=75&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=500&height=120&lines=Hi!;call+me+aref!" alt="Typing SVG" /></a>
-</div><br><br><br>
-
+</div>
+<br><br><br>
 
 
 <!-- ############################################################ Languages and technologies badge ############################################################ -->
@@ -53,17 +53,16 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   </div>
 </div>
-
+<br><br><br>
 
 
 <!-- ############################################################ Currently learning and interests in future ############################################################ -->
-
+<!-- From https://github.com/qkrdmstlr3/techstack-generator?tab=readme-ov-file -->
+<!-- From https://github.com/tandpfun/skill-icons#readme -->
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
-<!-- From https://github.com/qkrdmstlr3/techstack-generator?tab=readme-ov-file -->
-<!-- From https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
   <div style="display: flex; align-items: center;">
 <!-- languages and tools and technologies -->
@@ -97,3 +96,21 @@ Here are some ideas to get you started:
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
   </div>
 </div>
+<br><br><br>
+
+
+<!-- ############################################################   ############################################################ -->
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://anuraghazra-github-readme-stats-weld.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+  <br/>
+</details>
+<details>
+
+
+
+
+
+
+
