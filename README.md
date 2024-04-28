@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg">
-	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
@@ -61,10 +60,12 @@ Here are some ideas to get you started:
 <!-- ############################################################ Currently learning and interests in future ############################################################ -->
 <!-- From https://github.com/qkrdmstlr3/techstack-generator?tab=readme-ov-file -->
 <!-- From https://github.com/tandpfun/skill-icons#readme -->
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
+<!-- From https://github.com/anuraghazra/github-readme-stats AND vercel.com-->
+<details>
+  <summary>Tool and Technologies ⚙️</summary>
+  <br/>
+> Tools and Technologies that I am Currently learning and interests in future
+	<br/><br>
 <div align="center">
   <div style="display: flex; align-items: center;">
 <!-- languages and tools and technologies -->
@@ -98,24 +99,16 @@ Here are some ideas to get you started:
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
   </div>
 </div>
-<br><br><br>
-
-
-<!-- ############################################################   ############################################################ -->
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://anuraghazra-github-readme-stats-weld.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=4&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
   <br/>
 </details>
-<br><br><br>
 
 
 
+<!-- ############################################################ stats ############################################################ -->
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="http://anuraghazra-github-readme-stats-weld.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
   <br/>
 </details>
 <br><br><br>
