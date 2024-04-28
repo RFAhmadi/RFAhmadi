@@ -117,4 +117,4 @@ Here are some ideas to get you started:
 </details>
 <br><br><br>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RFAhmadi's Top Languages" align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
