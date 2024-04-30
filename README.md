@@ -112,29 +112,22 @@ Here are some ideas to get you started:
 <details>
   <summary>⚡ GitHub Profile Stats 📋</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RFAhmadi&theme=radical&hide_border=true&show_icons=true&hide=stars,contribs&include_all_commits=true&show=discussions_answered,prs_merged," alt="Stats Card" />
+<!-- Start stats -->
+	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RFAhmadi&card_width=500&theme=radical&hide_border=true&show_icons=true&hide=stars,contribs&include_all_commits=true&show=discussions_answered,prs_merged," alt="Stats Card" />
 	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&theme=radical&hide_border=true&langs_count=8&layout=compact&disable_animations=false" alt="Top Languages" /></a>
+		<br>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ streak stats ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<!-- From https://github.com/DenverCoder1/github-readme-streak-stats -->
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RFAhmadi&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+		<br>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in order : Hits , Visits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<!-- hits --> 
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{RFAhmadi}1212%2Fhit-counter" />
+	<!-- From https://github.com/pujux/badge-it --> <!-- visits -->
+	<img src="https://badges.pufler.dev/visits/{RFAhmadi}/{RFAhmadi}/" />
+		<br>
+<!-- END stats -->
   <br/>
 </details>
-<br><br><br>
 
 
-
-<!-- ############################################################ Hits ############################################################ -->
-<!-- From  -->
-<details>
-  <summary>⚡ GitHub Profile Hits 📋</summary>
-  <br/>
-	<img src="{[BadgeURLHere](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)}" />
- <br/>
-</details>
-<br><br><br>
-
-
-<details>
-  <summary>⚡ GitHub Profile Hits 📋</summary>
-  <br/>
-	<img src="{[[BadgeURLHere](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)}" />
- <br/>
-</details>
-<br><br><br>
