@@ -117,3 +117,24 @@ Here are some ideas to get you started:
   <br/>
 </details>
 <br><br><br>
+
+
+
+<!-- ############################################################ Hits ############################################################ -->
+<!-- From  -->
+<details>
+  <summary>⚡ GitHub Profile Hits 📋</summary>
+  <br/>
+	<img src="{[BadgeURLHere](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)}" />
+ <br/>
+</details>
+<br><br><br>
+
+
+<details>
+  <summary>⚡ GitHub Profile Hits 📋</summary>
+  <br/>
+	<img src="{[[BadgeURLHere](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)}" />
+ <br/>
+</details>
+<br><br><br>
