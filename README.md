@@ -113,8 +113,9 @@ Here are some ideas to get you started:
   <summary>⚡ GitHub Profile Stats 📋</summary>
   <br/>
 <!-- Start stats -->
+		<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&theme=radical&hide_border=true&langs_count=8&layout=compact&disable_animations=false" alt="Top Languages" /></a>
+		<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RFAhmadi&card_width=500&theme=radical&hide_border=true&show_icons=true&hide=stars,contribs&include_all_commits=true&show=discussions_answered,prs_merged," alt="Stats Card" />
-	<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=RFAhmadi&theme=radical&hide_border=true&langs_count=8&layout=compact&disable_animations=false" alt="Top Languages" /></a>
 		<br>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ streak stats ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<!-- From https://github.com/DenverCoder1/github-readme-streak-stats -->
