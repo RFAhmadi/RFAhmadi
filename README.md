@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in order : Hits , Visits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<!-- hits --> 
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{RFAhmadi}1212%2Fhit-counter" />
-	<!-- From https://github.com/pujux/badge-it --> <!-- visits -->
+	<!-- visits --> <!-- From https://github.com/pujux/badge-it -->
 	<img src="https://badges.pufler.dev/visits/{RFAhmadi}/{RFAhmadi}/" />
 		<br>
 <!-- END stats -->
