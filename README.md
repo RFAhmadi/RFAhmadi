@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <details>
   <summary>⚡ Tools & Technologies 🛠️</summary> <!-- ⚙️ -->
   <br/>
->| Tools and Technologies that I am Currently learning and interests in future
+>> Tools and Technologies that I am Currently learning and interests in future
 	<br/><br>
 <div align="center">
   <div style="display: flex; align-items: center;">
