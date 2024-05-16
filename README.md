@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 <!-- ############################################################ gif ############################################################ -->
 <div align="center">
-	<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
+	<img align="center" width="70" height="70" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
 </div>
 <br>
 <br> 
