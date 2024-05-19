@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-	 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
+	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
