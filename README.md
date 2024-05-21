@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
-   	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
-      	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg">
+<!--    	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg"> -->
+<!--       	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg"> -->
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <details>
   <summary>⚡ Tools & Technologies 🛠️</summary> <!-- ⚙️ -->
   <br/>
->> Tools and Technologies that I am Currently learning and interests in future
+Tools and Technologies that I am Currently learning and interests in future
 	<br/><br>
 <div align="center">
   <div style="display: flex; align-items: center;">
