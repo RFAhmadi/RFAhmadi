@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+		<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg">
+		<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
@@ -59,6 +61,7 @@ Here are some ideas to get you started:
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
 	  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+		<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
 	</div>
 </div>
 	<br/>
@@ -80,24 +83,31 @@ Tools and Technologies that I am Currently learning and interests in future
     <img width="70" height="70" src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" />
-<!--<img width="65" height="75" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" /> -->
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" />
+	<img width="65" height="75" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" />
+<!-- web and javascript related -->
     <img width="70" height="70" src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="rescript" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" />
-<!-- javascript related -->
     <img width="70" height="70" src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="testinglibrary" />
     <img width="70" height="70" src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" />
 <!-- frontend related -->
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="storybook" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="raspberrypi" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="gatsby" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="CPP" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="Csharp" />
+	<img width="70" height="70" src="https://techstack-generator.vercel.app/swift-icon.svg" alt="swift" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" />
 	<img width="70" height="70" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" />
 	<img width="60" height="60" src="https://skillicons.dev/icons?i=spring" alt="Spring" />
